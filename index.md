@@ -1,10 +1,10 @@
-# WELCOME TO MY PAGE I'M AZUL:)
-## FAVORITE FOOD 
-1. PIZZA
-2. SALAD
-3. ORANGES
+# BIENVENIDOS A MI PAGINA:)
+## MIS SHOWS DE NETFLIX FAVORITOS SON:
+1. VIS A VIS
+2. UMBRELLA ACADEMY
+3. SKINS 
 
-You can use the [editor on GitHub](https://github.com/mayazavala/mayazavala.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ME PUEDES ENCONTRAR EN GITHUB [AQUI](https://github.com/mayazavala/)
 
 
 ### Markdown
